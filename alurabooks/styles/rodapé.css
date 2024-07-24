@@ -44,7 +44,7 @@ hr {
     }
 }
 
-@media screen and (min-width: 1600px) {
+@media screen and (min-width: 17280px) {
     .lista-rodapé {
         border-left: 1px solid var(--cinza-claro);
         padding-left: 1em;

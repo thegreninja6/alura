@@ -5,7 +5,6 @@
 @import url("styles/contato.css");
 @import url("styles/rodapé.css");
 
-
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -19,7 +18,10 @@
     --cinza-claro: #858585;
 }
 
+
+
 body {
+
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
     font-size: 16px;
